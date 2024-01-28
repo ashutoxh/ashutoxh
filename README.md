@@ -1,8 +1,12 @@
 <h1>Hi there 👋, I'm Ashutosh Singh</h1>
-<h3 align="left">Connect with me:</h3>
+<img src="https://komarev.com/ghpvc/?username=ashutoxh&style=flat-square&color=blue" alt="">
+
+---
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashutoxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ashutoxh](https://linkedin.com/in/ashutoxh)" height="30" width="40" /></a>
 </p>
+
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
@@ -26,3 +30,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashutoxh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoxh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
