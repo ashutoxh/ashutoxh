@@ -9,7 +9,7 @@
 
 
 ---
-### 🛠 &nbsp;Languages and Tools :
+<h3 align="left">🛠Languages and Tools:</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
@@ -26,7 +26,8 @@
 </p>
 
 ---
-### 🔥 &nbsp;Statistics :
+<h3 align="left">🔥Statistics:</h3>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashutoxh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoxh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
